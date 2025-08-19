@@ -362,7 +362,7 @@ proxies:
     port: 443
     type: ss
     cipher: ss
-    password: //YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU
+    password: '//YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU'
     udp: true
   - name: '🇭🇰 香港3|@ripaojiedian 2'
     server: 43.247.134.190
@@ -379,7 +379,7 @@ proxies:
     port: 13872
     type: ss
     cipher: ss
-    password: //YWVzLTEyOC1nY206NmIxZTU0NzUtNzY2MS00OTIxLWFhMjYtZDExNzU4YjJmM2Yx
+    password: '//YWVzLTEyOC1nY206NmIxZTU0NzUtNzY2MS00OTIxLWFhMjYtZDExNzU4YjJmM2Yx'
     udp: true
   - name: '🇭🇰 香港7|@ripaojiedian 2'
     server: 183.240.245.239
@@ -396,29 +396,28 @@ proxies:
     port: 13882
     type: ss
     cipher: ss
-    password: //YWVzLTEyOC1nY206NmIxZTU0NzUtNzY2MS00OTIxLWFhMjYtZDExNzU4YjJmM2Yx
+    password: '//YWVzLTEyOC1nY206NmIxZTU0NzUtNzY2MS00OTIxLWFhMjYtZDExNzU4YjJmM2Yx'
     udp: true
   - name: '🇸🇬 新加坡3|@ripaojiedian 2'
     server: xinjiapo.tmdns-sing.top
     port: 13886
     type: ss
     cipher: ss
-    password: //YWVzLTEyOC1nY206NmIxZTU0NzUtNzY2MS00OTIxLWFhMjYtZDExNzU4YjJmM2Yx
+    password: '//YWVzLTEyOC1nY206NmIxZTU0NzUtNzY2MS00OTIxLWFhMjYtZDExNzU4YjJmM2Yx'
     udp: true
   - name: '🇺🇸 美国|@ripaojiedian 2'
     server: usa022.tmdns-sing.top
     port: 13892
     type: ss
     cipher: ss
-    password: //YWVzLTEyOC1nY206NmIxZTU0NzUtNzY2MS00OTIxLWFhMjYtZDExNzU4YjJmM2Yx
+    password: '//YWVzLTEyOC1nY206NmIxZTU0NzUtNzY2MS00OTIxLWFhMjYtZDExNzU4YjJmM2Yx'
     udp: true
   - name: '🇻🇳 越南|@ripaojiedian 2'
     server: 103.186.154.31
     port: 38388
     type: ss
     cipher: ss
-    password: 
-      //YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW
+    password: '//YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW'
     udp: true
   - name: FR_speednode_0051
     server: 141.11.203.168
