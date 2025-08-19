@@ -7,7 +7,7 @@
 
 ## clash订阅链接：
 
-<a href="https://github.com/henrywch/clashfree/blob/main/clash.yaml" target="_blank">点击下载</a>
+<a href="https://github.com/henrywch/clashfree/blob/main/clash.yml" target="_blank">点击下载</a>
 
 ## 更多clash节点订阅 ：
 
